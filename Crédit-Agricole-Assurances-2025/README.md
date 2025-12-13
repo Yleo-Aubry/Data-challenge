@@ -10,7 +10,7 @@ This repository contains the source code for the **"Trinity Capped"** model, whi
 The goal was to predict the **claim cost (Charge)** for agricultural insurance contracts based on heterogeneous data (Meteorological, Structural, and Economic features).
 
 ## 🧠 The "Trinity" Architecture
-To handle the high variance and Zero-Inflated nature of the data, we designed a 3-pillar ensemble strategy:
+To handle the high variance and Zero-Inflated nature of the data, I designed a 3-pillar ensemble strategy:
 
 | Component | Model | Weight | Role |
 | :--- | :--- | :--- | :--- |
@@ -25,5 +25,5 @@ Instead of relying on raw data, we engineered domain-specific features:
 
 ## 🛡️ Robustness Strategy: "Capping"
 The evaluation metric (RMSE) is highly sensitive to outliers.
-We implemented a **Statistical Capping Strategy** at the 99.5th percentile on the predictions. This acts as a "circuit breaker," preventing the model from predicting unrealistically high values that would severely penalize the score on the Private Leaderboard.
+I implemented a **Statistical Capping Strategy** at the 99.5th percentile on the predictions. This acts as a "circuit breaker," preventing the model from predicting unrealistically high values that would severely penalize the score on the Private Leaderboard.
 
