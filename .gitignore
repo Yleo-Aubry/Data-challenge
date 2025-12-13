@@ -1,0 +1,110 @@
+# ========================
+# 1. PYTHON & DATA SCIENCE
+# ========================
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Indispensable pour ne pas push tes libs)
+venv/
+env/
+.env
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ========================
+# 2. DATASETS (CRITIQUE)
+# ========================
+# On ignore tous les fichiers de données volumineux ou propriétaires
+# Cela t'évite de violer les règles de confidentialité des challenges
+*.csv
+*.tsv
+*.json
+*.xml
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.xlsx
+*.xls
+
+# Dossiers de données classiques
+data/
+datasets/
+input/
+inputs/
+raw_data/
+processed_data/
+
+# Dossiers de sortie (modèles sauvegardés, submissions)
+output/
+submissions/
+*.pth
+*.pt
+*.model
+*.weights
+
+# Exception : Si tu veux quand même push un petit fichier CSV d'exemple
+# Tu peux le forcer avec : git add -f nom_fichier.csv
+# Mais par défaut, tout est bloqué.
+
+# ========================
+# 3. C++ (Pour ton Pricer)
+# ========================
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Build folders (CMake, etc.)
+build/
+cmake-build-debug/
+bin/
+
+# ========================
+# 4. IDE & OS (Fichiers système inutiles)
+# ========================
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code / PyCharm / Spyder
+.vscode/
+.idea/
+*.swp
+.spyderproject
+.spyproject
+
+# ========================
+# 5. LATEX (Pour ton CV/Rapports)
+# ========================
+# On garde le .tex et le .pdf final, mais on vire les fichiers temporaires de compilation
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
