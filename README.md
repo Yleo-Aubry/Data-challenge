@@ -14,7 +14,7 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 
 | Project / Competition | Domain | Rank | Key Techniques | 
 | :--- | :--- | :--- | :--- | 
-| **Crédit Agricole Assurances 2025** | Actuarial Science / Risk | **Top ??%** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | 
+| **Crédit Agricole Assurances 2025** | Actuarial Science / Risk | **??** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | 
 
 
 
