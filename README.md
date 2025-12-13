@@ -14,10 +14,10 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 
 | Project / Competition | Domain | Rank | Key Techniques | Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **AgriRisk Pricing** | Actuarial Science / Risk | **Top ??%** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | [📂 View](AgriRisk-Solution/) |
+| **AgriRisk Pricing** | Actuarial Science / Risk | **Top ??%** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | 
 
 
-*(Click on "View" to see the detailed code and documentation for each project)*
+
 
 ## 🛠️ Technical Stack
 
