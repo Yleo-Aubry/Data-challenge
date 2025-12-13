@@ -12,7 +12,7 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 
 ## 🏆 Featured Projects
 
-| Project / Competition | Domain | Rank | Key Techniques | Link |
+| Project / Competition | Domain | Rank | Key Techniques | 
 | :--- | :--- | :--- | :--- | :---: |
 | **AgriRisk Pricing** | Actuarial Science / Risk | **Top ??%** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | 
 
