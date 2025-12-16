@@ -14,7 +14,7 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 
 | Project / Competition | Domain | Rank | Key Techniques | 
 | :--- | :--- | :--- | :--- | 
-| **Crédit Agricole Assurances 2025** | Actuarial Science / Risk | **13/284** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | 
+| **Crédit Agricole Assurances 2025** | Actuarial Science / Risk | **13/284** | `Stacking`, `Tweedie Loss`, `Zero-Inflated NN`, `PyTorch` | **QRT 2025** | Biology / Health | **21/635** | `Survival Analysis`, `Right Censored Data`, `XGBoost AFT`, `scikit-survival`
 
 
 
@@ -22,8 +22,9 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 ## 🛠️ Technical Stack
 
 * **Languages:** Python (Primary), C++, SQL.
-* **Machine Learning:** LightGBM, XGBoost, CatBoost, Scikit-Learn.
+* **Machine Learning:** LightGBM, XGBoost, CatBoost, Scikit-Learn, scikit-survival, Random Survival Forests.
 * **Deep Learning:** PyTorch (Tabular, Embeddings).
+* **Modeling:** Survival Analysis, End-to-end Pipelines.
 * **Validation:** K-Fold Cross-Validation, Time-Series Split, Adversarial Validation.
 
 ## 📬 Contact
