@@ -1,11 +1,11 @@
 # 🛡️ AgriRisk: Trinity Capped Architecture
 
-### Top ??% Solution - Insurance Claim Prediction Challenge
+### Top 4.6% Solution - Insurance Claim Prediction Challenge
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red) ![LightGBM](https://img.shields.io/badge/Model-LightGBM-green)
 
 ## 📖 Overview
-This repository contains the source code for the **"Trinity Capped"** model, which ranked in the **Top ??** (out of ?? teams) in the Crédit Agricole Assurances data challenge (2025).
+This repository contains the source code for the **"Trinity Capped"** model, which ranked in the **Top 13** (out of 284 teams) in the Crédit Agricole Assurances data challenge (2025).
 
 The goal was to predict the **claim cost (Charge)** for agricultural insurance contracts based on heterogeneous data (Meteorological, Structural, and Economic features).
 
