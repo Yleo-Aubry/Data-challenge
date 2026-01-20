@@ -28,7 +28,7 @@ As an **ENSAE Paris** student specializing in **Quantitative Finance**, my appro
 * **Modeling:** Survival Analysis, End-to-end Pipelines.
 * **Validation:** K-Fold Cross-Validation, Time-Series Split, Adversarial Validation.
 
-## 📬 Contact
+## Contact
 **Yléo Aubry** - Quantitative finance student @ ENSAE Paris
 * [LinkedIn](https://www.linkedin.com/in/yleo-aubry)
 * [Email](mailto:yleo.aubry@ensae.fr)
