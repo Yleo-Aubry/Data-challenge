@@ -1,4 +1,4 @@
-# 📈 Quantitative Data Challenges Portfolio
+#  Quantitative Data Challenges Portfolio
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![C++](https://img.shields.io/badge/C++-17-00599C) ![License](https://img.shields.io/badge/License-MIT-green)
 
